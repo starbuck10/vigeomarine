@@ -2,10 +2,10 @@
 layout: default
 img: govt.jpg
 category: Services
-title: Executive<br>& Government Services
+title: Boat Restoration
 description: |
 categories: [x, y]
 tags: [x, y]
 published: true
 ---
-  As a business professional or government official, you don't have time to worry about your security and safety.  Here at Vigeo, we take care of your security by making it our number one priority.  We understand you have an image to uphold so we're here to be the security team you don't even realize has your six.  
+  Like most of us, you have a dream boat and no time or knowledge to get her seaworthy again.  Share your dream with us and let's come up with a project plan to bring her back to life.  
