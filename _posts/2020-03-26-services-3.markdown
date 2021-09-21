@@ -8,4 +8,4 @@ categories: [x, y]
 tags: [x, y]
 published: true
 ---
-We understand that moving your boat or yacht from one destination to another can be troublesome, to say the least.  Our friendly and professional, ASA certified crew will get your craft where you need it to go in better shape than they picked it up.  
+We understand that moving your boat or yacht from one destination to another can be troublesome, to say the least.  Our friendly, professional, and ASA certified crew will get your craft where you need it to go in better shape than they picked it up.  
