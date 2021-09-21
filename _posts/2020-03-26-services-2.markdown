@@ -8,4 +8,4 @@ categories: [x, y]
 tags: [x, y]
 published: true
 ---
-Providing structure, a water-tight membrane, and buoyancy, we spray each of our boats with spray foam to promote longevity and ensure your boat floats, even if it's run aground of capsized.
+Providing structure, a water-tight membrane, and buoyancy, we spray each of our boats with spray foam to promote longevity and ensure your boat floats, even if it's run aground or capsized.
