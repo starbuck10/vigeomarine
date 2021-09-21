@@ -1,6 +1,6 @@
 ---
 layout: default
-img: govt.jpg
+img: boat_resto.jpg
 category: Services
 title: Boat Restoration
 description: |

@@ -1,6 +1,6 @@
 ---
 layout: default
-img: safe.jpg
+img: sprayfoam.jpg
 category: Services
 title: Spray Foam Insulation
 description: |

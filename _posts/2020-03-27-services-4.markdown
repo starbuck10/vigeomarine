@@ -1,6 +1,6 @@
 ---
 layout: default
-img: train.jpg
+img: vessel.jpg
 category: Services
 title: Custom Boatwork
 description: |
