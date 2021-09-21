@@ -2,10 +2,10 @@
 layout: default
 img: train.jpg
 category: Services
-title: Defense<br>Training
+title: Custom Boatwork
 description: |
 categories: [x, y]
 tags: [x, y]
 published: true
 ---
-When it comes to security, our clients must be as aware of their surroundings as we are.  That's why we provide world-class training to give our clients the best security experience while they're in our hands.
+We know that your boat is a large investment.  Safety and styling are paramount to ensure you and your family continue to enjoy your boat for years to come.  From bolt on customizations to refits, we're happy to give you a hand.
